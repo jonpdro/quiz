@@ -1,0 +1,42 @@
+c:\users\labinfo\documents\visual studio 2012\Projects\quiz of sampa\quiz of sampa\bin\Debug\quiz of sampa.exe.config
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\bin\Debug\quiz of sampa.exe.config
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\bin\Debug\quiz of sampa.exe
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\bin\Debug\quiz of sampa.pdb
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz of sampa.csprojResolveAssemblyReference.cache
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.Form1.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta1.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta10.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta2.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta3.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta4.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta5.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta6.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta7.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta8.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta9.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.Properties.Resources.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz of sampa.csproj.GenerateResource.Cache
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz of sampa.exe
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz of sampa.pdb
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.resultado0.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz of sampa\quiz of sampa\obj\Debug\quiz_of_sampa.resultado.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\bin\Debug\quiz of sampa.exe.config
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz of sampa.exe
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz of sampa.csprojResolveAssemblyReference.cache
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.Form1.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta1.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta10.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta2.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta3.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta4.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta5.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta6.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta7.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta8.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.pergunta9.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.Properties.Resources.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz_of_sampa.resultado.resources
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz of sampa.csproj.GenerateResource.Cache
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\bin\Debug\quiz of sampa.exe
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\bin\Debug\quiz of sampa.pdb
+F:\jumpman23\etec\ds\cleito\trabquiz\quiz\quiz of sampa\obj\Debug\quiz of sampa.pdb
